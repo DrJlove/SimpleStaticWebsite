@@ -1,2 +1,2 @@
 # SimpleStaticWebsite
-Used to play around with websites using only html and css
+Used to play around with html and css
